@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+/**
+ * 
+ * @author tracydunlop
+ *
+ */
 public class PerimeterAreaProject {
 
 	public static void main(String[] args) {
